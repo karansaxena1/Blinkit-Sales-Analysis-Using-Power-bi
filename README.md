@@ -1,5 +1,4 @@
-# Blinkit-Sales-Analysis-Using-Power-bi
-
+# Blinkit Insights: Sales Dashboard
 ![Blinkit](https://github.com/user-attachments/assets/4eb0833f-b1fc-4441-bc33-ab13d3bddcdd)
 
 ## This Power BI Dashboard provides an in-depth analysis of sales and performance metrics for Blinkit, an on-demand grocery delivery service. The dashboard is designed to present key performance indicators (KPIs), distribution insights, and trends to help understand sales patterns and improve decision-making.
